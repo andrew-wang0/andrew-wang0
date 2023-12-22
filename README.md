@@ -5,7 +5,7 @@
 ## About Me
 
 I'm Andrew, a software developer at the University of California, Irvine. I'm experienced in backend web development,
-data analysis, research, and playing drums.
+data analysis, research, and playing drums 🥁.
 
 ## What I've Been Up To
 
@@ -56,4 +56,4 @@ Tools & Libraries:
 Thanks for stopping by!
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Jellyfish.png" alt="Jellyfish" width="25" height="25"/>
 
-[Portfolio](https://andrew-wang.framer.website/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/andrew-wang0/)
+#### [Portfolio](https://andrew-wang.framer.website/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/andrew-wang0/)
