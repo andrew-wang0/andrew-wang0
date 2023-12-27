@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm Andrew, a software developer at the University of California, Irvine. I'm experienced in backend web development,
+I'm Andrew, a software developer studying at the University of California, Irvine. I'm experienced in backend web development,
 data analysis, research, and playing drums 🥁
 
 ## What I've Been Up To
@@ -19,7 +19,7 @@ While I'm currently a projects member at UC Irvine's ICS Student Council, I've a
 
 * 🏥 Montage Health: _Software Developer_
 * 📖 Monterey Peninsula College: _Software Developer_
-* 🌞Applied Solar Energy: _Data Analyst Intern_
+* 🌞 Applied Solar Energy: _Data Analyst Intern_
 * ⚓ Naval Postgraduate School: _Modeling & Simulation Research Intern_
 
 ## My Tech Stack
