@@ -5,14 +5,15 @@
 ## About Me
 
 I'm Andrew, a software developer at the University of California, Irvine. I'm experienced in backend web development,
-data analysis, research, and playing drums 🥁.
+data analysis, research, and playing drums 🥁
 
 ## What I've Been Up To
 
-My main projects at the moment are
+My main projects at the moment are:
 
 * [Peter Portal API](https://github.com/icssc/peterportal-api-next)
 * [GE-Z Backend](https://github.com/laurelin60/GE-Z-Backend)
+* [Rebold](https://github.com/andrew-wang0/Rebold-Laravel)
 
 While I'm currently a projects member at UC Irvine's ICS Student Council, I've also worked at:
 
@@ -58,7 +59,11 @@ Tools & Libraries:
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
+<br>
+
 ---
+
 <div align="center">
     Thanks for stopping by!
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Jellyfish.png" alt="Jellyfish" width="25" height="25"/>
