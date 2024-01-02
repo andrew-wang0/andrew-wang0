@@ -14,6 +14,7 @@ My main projects at the moment are:
 
 * [Peter Portal API](https://github.com/icssc/peterportal-api-next)
 * [GE-Z Backend](https://github.com/laurelin60/GE-Z-Backend)
+* [GE-Z Frontend](https://github.com/laurelin60/GE-Z-Frontend)
 * [Rebold](https://github.com/andrew-wang0/Rebold-Laravel)
 
 While I'm currently a projects member at UC Irvine's [@ICSSC](https://github.com/icssc), I've also worked at:
