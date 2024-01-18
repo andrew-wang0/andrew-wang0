@@ -1,4 +1,4 @@
-[//]: # (<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" width="150" alt="whale">)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" width="150" alt="whale">
 
 # Hello! Welcome to Andrew's GitHub!
 
@@ -66,8 +66,7 @@ Tools & Libraries:
 
 <div align="center">
     Thanks for stopping by!
-
-[//]: # (    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Jellyfish.png" alt="Jellyfish" width="25" height="25"/>)
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Jellyfish.png" alt="Jellyfish" width="25" height="25"/>
 </div>
 
 <div align="center">
