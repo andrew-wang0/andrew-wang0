@@ -17,12 +17,16 @@ My main projects at the moment are:
 * [GE-Z Frontend](https://github.com/laurelin60/GE-Z-Frontend)
 * [Rebold](https://github.com/andrew-wang0/Rebold-Laravel)
 
-While I'm currently a projects member at UC Irvine's [@ICSSC](https://github.com/icssc), I've also worked at:
+[//]: # (While I'm currently a projects member at UC Irvine's [@ICSSC]&#40;https://github.com/icssc&#41;, I've also worked at:)
 
-* 🏥 Montage Health: _Software Developer_
-* 📖 Monterey Peninsula College: _Software Developer_
-* 🌞 Applied Solar Energy: _Data Analyst Intern_
-* ⚓ Naval Postgraduate School: _Modeling & Simulation Research Intern_
+[//]: # ()
+[//]: # (* 🏥 Montage Health: _Software Developer_)
+
+[//]: # (* 📖 Monterey Peninsula College: _Software Developer_)
+
+[//]: # (* 🌞 Applied Solar Energy: _Data Analyst Intern_)
+
+[//]: # (* ⚓ Naval Postgraduate School: _Modeling & Simulation Research Intern_)
 
 ## My Tech Stack
 
