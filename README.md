@@ -20,6 +20,7 @@ My main projects at the moment are:
 [//]: # (While I'm currently a projects member at UC Irvine's [@ICSSC]&#40;https://github.com/icssc&#41;, I've also worked at:)
 
 [//]: # ()
+
 [//]: # (* 🏥 Montage Health: _Software Developer_)
 
 [//]: # (* 📖 Monterey Peninsula College: _Software Developer_)
@@ -31,9 +32,11 @@ My main projects at the moment are:
 [//]: # (## My Tech Stack)
 
 [//]: # ()
+
 [//]: # (Languages:)
 
 [//]: # ()
+
 [//]: # ([![TypeScript]&#40;https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&#41;]&#40;https://www.typescriptlang.org/&#41;)
 
 [//]: # ([![JavaScript]&#40;https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&#41;]&#40;https://developer.mozilla.org/en-US/docs/Web/JavaScript&#41;)
@@ -57,9 +60,11 @@ My main projects at the moment are:
 [//]: # ([![CSS]&#40;https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&#41;]&#40;https://developer.mozilla.org/en-US/docs/Web/CSS&#41;)
 
 [//]: # ()
+
 [//]: # (Tools & Libraries:)
 
 [//]: # ()
+
 [//]: # ([![Node.js]&#40;https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&#41;]&#40;https://nodejs.org/&#41;)
 
 [//]: # ([![Express]&#40;https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&#41;]&#40;https://expressjs.com/&#41;)
@@ -104,5 +109,5 @@ My main projects at the moment are:
 </div>
 
 <div align="center">
-    <a href="https://andrew-wang.framer.website/">Portfolio</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/andrew-wang0/">Linkedin</a>
+    <a href="https://www.linkedin.com/in/andrew-wang0/">Linkedin</a> &nbsp;|&nbsp; <a href="https://andrew-wang.framer.website/">Portfolio</a> 
 </div>
