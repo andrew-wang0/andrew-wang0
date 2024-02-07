@@ -1,21 +1,24 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" width="150" alt="whale">
 
-# Hello! Welcome to Andrew's GitHub!
-
-## About Me
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" width="50" alt="whale"> Hello! Welcome to Andrew's GitHub! 
 
 I'm Andrew, a software developer studying at the University of California, Irvine. I'm experienced in backend web
 development,
 data analysis, research, and playing drums 🥁
 
-## What I've Been Up To
+[//]: # ()
+[//]: # (## What I've Been Up To)
 
-My main projects at the moment are:
+[//]: # ()
+[//]: # (My main projects at the moment are:)
 
-* [Peter Portal API](https://github.com/icssc/peterportal-api-next)
-* [GE-Z Backend](https://github.com/laurelin60/GE-Z-Backend)
-* [GE-Z Frontend](https://github.com/laurelin60/GE-Z-Frontend)
-* [Rebold](https://github.com/andrew-wang0/Rebold-Laravel)
+[//]: # ()
+[//]: # (* [Peter Portal API]&#40;https://github.com/icssc/peterportal-api-next&#41;)
+
+[//]: # (* [GE-Z Backend]&#40;https://github.com/laurelin60/GE-Z-Backend&#41;)
+
+[//]: # (* [GE-Z Frontend]&#40;https://github.com/laurelin60/GE-Z-Frontend&#41;)
+
+[//]: # (* [Rebold]&#40;https://github.com/andrew-wang0/Rebold-Laravel&#41;)
 
 [//]: # (While I'm currently a projects member at UC Irvine's [@ICSSC]&#40;https://github.com/icssc&#41;, I've also worked at:)
 
@@ -103,10 +106,13 @@ My main projects at the moment are:
 
 ---
 
-<div align="center">
-    Thanks for stopping by!
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Jellyfish.png" alt="Jellyfish" width="25" height="25"/>
-</div>
+[//]: # (<div align="center">)
+
+[//]: # (    Thanks for stopping by!)
+
+[//]: # (    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Jellyfish.png" alt="Jellyfish" width="25" height="25"/>)
+
+[//]: # (</div>)
 
 <div align="center">
     <a href="https://www.linkedin.com/in/andrew-wang0/">Linkedin</a> &nbsp;|&nbsp; <a href="https://andrew-wang.framer.website/">Portfolio</a> 
