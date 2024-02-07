@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" width="50" alt="whale"> Hello! Welcome to Andrew's GitHub! 
+#  Hello! Welcome to Andrew's GitHub! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" width="50" alt="whale">
 
 I'm Andrew, a software developer studying at the University of California, Irvine. I'm experienced in backend web
 development,
