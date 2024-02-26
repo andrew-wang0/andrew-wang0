@@ -38,6 +38,14 @@ data analysis, research, and playing drums 🥁
 [//]: # ([![Pandas]&#40;https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&#41;]&#40;https://pandas.pydata.org/&#41;)
 [//]: # ([![OpenCV]&#40;https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white&#41;]&#40;https://opencv.org/&#41;)
 
+### What I've Been Up To
+
+* Check out some of my projects on [Laurelin60](https://github.com/laurelin60)
+* Open source contributions for [ICSSC](https://github.com/icssc)
+* Education software for [Monterey Peninsula College](https://github.com/MPC-Rebold/assessments-laravel)
+
+
+
 <hr>
 <div align="center">
     Thanks for stopping by!
