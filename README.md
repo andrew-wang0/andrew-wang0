@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/KevinWu098/KevinWu098/assets/100006999/a3f98e69-9536-4bc4-9f7f-aef497d382be');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/andrew-wang0/andrew-wang0/blob/main/giphy.webp');]{x0000}$}
 ```
 
 #  Hello! Welcome to Andrew's GitHub! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" width="50" alt="whale">
