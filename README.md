@@ -1,7 +1,3 @@
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/andrew-wang0/andrew-wang0/assets/143981491/dcf0cd65-a4f9-4179-b12f-ec19f6433156');]{x0000}$}
-```
-
 #  Hello! Welcome to Andrew's GitHub! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" width="50" alt="whale">
 
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
