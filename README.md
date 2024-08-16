@@ -7,8 +7,6 @@
 [![Laravel](https://img.shields.io/badge/Laravel-e33e33?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-6364d9?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-
 [//]: # ([![PostgreSQL]&#40;https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&#41;]&#40;https://www.postgresql.org/&#41;)
 
 I'm Andrew, a software developer studying at the University of California, Irvine. I'm experienced in full-stack web
