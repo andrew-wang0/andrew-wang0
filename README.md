@@ -47,5 +47,6 @@ data analysis, research, and playing drums 🥁
     Thanks for stopping by!
 </div>
 <div align="center">
-    <a href="https://www.linkedin.com/in/andrew-wang0/">Linkedin</a> &nbsp;|&nbsp; <a href="https://andrew-wang.framer.website/">Portfolio</a> 
+<!--     <a href="https://www.linkedin.com/in/andrew-wang0/">Linkedin</a> &nbsp;|&nbsp; <a href="https://andrew-wang.framer.website/">Portfolio</a>  -->
+    <a href="https://www.linkedin.com/in/andrew-wang0/">Linkedin</a> 
 </div>
