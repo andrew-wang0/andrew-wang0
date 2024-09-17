@@ -39,6 +39,7 @@ data analysis, research, and playing drums 🥁
 * Check out some of my projects on [Laurelin60](https://github.com/laurelin60)
 * Open source contributions for [ICSSC](https://github.com/icssc)
 * Education software for [Monterey Peninsula College](https://github.com/MPC-Rebold/assessments-laravel)
+* Web Developer on [UCI ML Repo](https://github.com/uci-ml-repo)
 
 
 
