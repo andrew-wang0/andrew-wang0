@@ -3,9 +3,11 @@
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-6364d9?style=for-the-badge)](https://www.prisma.io/)
 [![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 [![Laravel](https://img.shields.io/badge/Laravel-e33e33?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Prisma](https://img.shields.io/badge/Prisma-6364d9?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 [//]: # ([![PostgreSQL]&#40;https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&#41;]&#40;https://www.postgresql.org/&#41;)
