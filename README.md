@@ -44,8 +44,9 @@ data analysis, research, and playing drums 🥁
 * Education software for [Monterey Peninsula College](https://github.com/MPC-Rebold/assessments-laravel)
 * Web Developer on [UCI ML Repo](https://github.com/uci-ml-repo)
 
-### Previously Worked For
-
+### I've Worked For
+* Amazon
+* Johns Hopkins Applied Physics Lab
 * US Navy - Naval Postgraduate School
 * Applied Solar Energy
 * Montage Health
