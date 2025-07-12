@@ -46,6 +46,8 @@ data analysis, research, and playing drums 🥁
 * Web Developer on [UCI ML Repo](https://github.com/uci-ml-repo)
 
 ### I've Worked For
+* Amazon Web Services
+* Johns Hopkins - Applied Physics Lab
 * US Navy - Naval Postgraduate School
 * Applied Solar Energy
 * Montage Health
