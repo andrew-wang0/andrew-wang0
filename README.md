@@ -38,6 +38,7 @@ data analysis, research, and playing drums 🥁
 [//]: # ([![OpenCV]&#40;https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white&#41;]&#40;https://opencv.org/&#41;)
 
 ### What Im Up To
+* Intern @ JHU APL
 * Intern @ Amazon Web Services
 * Check out some of my projects on [Laurelin60](https://github.com/laurelin60)
 * Project Lead for [ICSSC](https://github.com/icssc)
