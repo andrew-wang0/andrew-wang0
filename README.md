@@ -1,6 +1,6 @@
 # Welcome! 
 
-I'm Andrew, a software developer studying at the University of California, Irvine. I'm experienced in full-stack web
+I'm Andrew, a software developer. I'm experienced in full-stack web
 development,
 data analysis, research, and playing drums.
 
